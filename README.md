@@ -5,8 +5,8 @@ Additionally, users can apply formulas, upload a JSON file, and download the Exc
 
 ## Getting Started
 To use this app, 
-1) clone the repository
-2) open the index.html file in your web browser using the live server.
+1) Clone the repository
+2) Open the index.html file in your web browser using the live server.
 
 ## Features
 1) Perform basic cell operations like changing font color, size, and properties like cut,copy,paste
