@@ -13,6 +13,7 @@ To use this app,
 2) Apply formulas to cells
 3) Upload a JSON file to populate the spreadsheet with data
 4) Download the Excel file in the form of a JSON file
+5) Since Excel is primary accessed on Desktop , the website is not mobile responsive
 
 ## Known Issues
 Since this is a basic Excel clone, there are some limitations to what it can do.
