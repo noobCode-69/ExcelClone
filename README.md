@@ -14,10 +14,10 @@ To use this app,
 3) Upload a JSON file to populate the spreadsheet with data
 4) Download the Excel file in the form of a JSON file
 
-##Known Issues
+## Known Issues
 Since this is a basic Excel clone, there are some limitations to what it can do.
 1) Cycle detection for formulas
 2) Multiple spreadsheet functionality
 
-##Deploymen
+## Deployment
 The website is hosted on Vercel and can be accessed by the url "https://excel-clone-murex.vercel.app"
